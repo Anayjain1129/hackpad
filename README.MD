@@ -34,3 +34,6 @@ I had tons of issues with making the Firmware, as I'm on arch linux too I got to
 ![image](images/2.jpeg)
 ![image](images/3.jpeg)
 ![image](images/3.jpeg)
+
+# Youtube Link
+https://youtube.com/shorts/4EpmZ8gcD6c?si=dydtyU4dkYbHrrX3
