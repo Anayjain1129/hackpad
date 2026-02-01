@@ -39,4 +39,4 @@ I had tons of issues with making the Firmware, as I'm on arch linux too I got to
 https://youtube.com/shorts/4EpmZ8gcD6c?si=dydtyU4dkYbHrrX3
 
 # Reboot changes 
-https://drive.google.com/file/d/1OqpE0TkTVKWNDCLAZDDclW11vvze6mBZ/view?usp=drive_link
+https://drive.google.com/file/d/1OqpE0TkTVKWNDCLAZDDclW11vvze6mBZ/view?usp=sharing
